@@ -26,6 +26,6 @@
     { "cardID": "219", "cardName": "Bombirdier", "pokemonName_en": "Bombirdier", "rarity": "IR", "pokedexNumber": 962, "cardIllustrator": "Shibuzoh.", "ThaiArtRares": true },
     { "cardID": "220", "cardName": "Kingambit", "pokemonName_en": "Kingambit", "rarity": "IR", "pokedexNumber": 983, "cardIllustrator": "Shin Nagasawa", "ThaiArtRares": true },
     { "cardID": "221", "cardName": "Starly", "pokemonName_en": "Starly", "rarity": "IR", "pokedexNumber": 396, "cardIllustrator": "saino misaki", "ThaiArtRares": true },
-    { "cardID": "222", "cardName": "Skwovet", "pokemonName_en": "Skwovet", "rarity": "IR", "pokedexNumber": 819, "cardIllustrator": "Teeziro", "ThaiArtRares": true },
-     ]
+    { "cardID": "222", "cardName": "Skwovet", "pokemonName_en": "Skwovet", "rarity": "IR", "pokedexNumber": 819, "cardIllustrator": "Teeziro", "ThaiArtRares": true }
+  ]
 }
