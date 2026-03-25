@@ -3,6 +3,18 @@
   "setID": "svi",
   "cards": [
     {
+      "cardID": "001",
+      "cardName": "Pomdepik",
+      "pokemonName": "Pineco",
+      "pokemonName_en": "Pineco",
+      "rarity": "C",
+      "pokedexNumber": 204,
+      "cardIllustrator": "Shigenori Negishi",
+      "cardCameos": [],
+      "ThaiArtRares": false
+    },
+    /* IDs 002 through 133 follow the same pattern (ThaiArtRares: false) */
+    {
       "cardID": "134",
       "cardName": "Scalpereur",
       "pokemonName": "Kingambit",
@@ -11,8 +23,9 @@
       "pokedexNumber": 983,
       "cardIllustrator": "Anesaki Dynamic",
       "cardCameos": [],
-      "ThaiArtRares": true 
+      "ThaiArtRares": true
     },
+    /* IDs 135 through 198 follow the same pattern (ThaiArtRares: false) */
     {
       "cardID": "199",
       "cardName": "Tissenboule",
@@ -24,18 +37,270 @@
       "cardCameos": [],
       "ThaiArtRares": true
     },
-    /* ... repeat for all cards with "rarity": "IR" (IDs 199 through 222) ... */
     {
-      "cardID": "243",
-      "cardName": "Filentrappe-ex",
-      "pokemonName": "Spidops ex",
-      "pokemonName_en": "Spidops ex",
-      "rarity": "SIR",
-      "pokedexNumber": 918,
-      "cardIllustrator": "Miki Tanaka",
+      "cardID": "200",
+      "cardName": "Olivado",
+      "pokemonName": "Dolliv",
+      "pokemonName_en": "Dolliv",
+      "rarity": "IR",
+      "pokedexNumber": 929,
+      "cardIllustrator": "Oswaldo KATO",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "201",
+      "cardName": "Terracool",
+      "pokemonName": "Toedscool",
+      "pokemonName_en": "Toedscool",
+      "rarity": "IR",
+      "pokedexNumber": 948,
+      "cardIllustrator": "Akira Komayama",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "202",
+      "cardName": "Scovilain",
+      "pokemonName": "Scovillain",
+      "pokemonName_en": "Scovillain",
+      "rarity": "IR",
+      "pokedexNumber": 952,
+      "cardIllustrator": "KIYOTAKA OSHIYAMA",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "203",
+      "cardName": "Carmadura",
+      "pokemonName": "Armarouge",
+      "pokemonName_en": "Armarouge",
+      "rarity": "IR",
+      "pokedexNumber": 936,
+      "cardIllustrator": "nagimiso",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "204",
+      "cardName": "Ramoloss",
+      "pokemonName": "Slowpoke",
+      "pokemonName_en": "Slowpoke",
+      "rarity": "IR",
+      "pokedexNumber": 79,
+      "cardIllustrator": "Toshinao Aoki",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "205",
+      "cardName": "Flingouste",
+      "pokemonName": "Clauncher",
+      "pokemonName_en": "Clauncher",
+      "rarity": "IR",
+      "pokedexNumber": 692,
+      "cardIllustrator": "Shinya Komatsu",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "206",
+      "cardName": "Taupikeau",
+      "pokemonName": "Wiglett",
+      "pokemonName_en": "Wiglett",
+      "rarity": "IR",
+      "pokedexNumber": 960,
+      "cardIllustrator": "You Iribi",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "207",
+      "cardName": "Oyacata",
+      "pokemonName": "Dondozo",
+      "pokemonName_en": "Dondozo",
+      "rarity": "IR",
+      "pokedexNumber": 977,
+      "cardIllustrator": "AKIRA EGAWA",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "208",
+      "cardName": "Pachirisu",
+      "pokemonName": "Pachirisu",
+      "pokemonName_en": "Pachirisu",
+      "rarity": "IR",
+      "pokedexNumber": 417,
+      "cardIllustrator": "zig",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "209",
+      "cardName": "Pohmarmotte",
+      "pokemonName": "Pawmot",
+      "pokemonName_en": "Pawmot",
+      "rarity": "IR",
+      "pokedexNumber": 923,
+      "cardIllustrator": "Kouki Saitou",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "210",
+      "cardName": "Soporifik",
+      "pokemonName": "Drowzee",
+      "pokemonName_en": "Drowzee",
+      "rarity": "IR",
+      "pokedexNumber": 96,
+      "cardIllustrator": "Tomokazu Komiya",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "211",
+      "cardName": "Tarsal",
+      "pokemonName": "Ralts",
+      "pokemonName_en": "Ralts",
+      "rarity": "IR",
+      "pokedexNumber": 280,
+      "cardIllustrator": "Jiro Sasumo",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "212",
+      "cardName": "Kirlia",
+      "pokemonName": "Kirlia",
+      "pokemonName_en": "Kirlia",
+      "rarity": "IR",
+      "pokedexNumber": 281,
+      "cardIllustrator": "Jiro Sasumo",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "213",
+      "cardName": "Pâtachiot",
+      "pokemonName": "Fidough",
+      "pokemonName_en": "Fidough",
+      "rarity": "IR",
+      "pokedexNumber": 926,
+      "cardIllustrator": "Tika Matsuno",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "214",
+      "cardName": "Toutombe",
+      "pokemonName": "Greavard",
+      "pokemonName_en": "Greavard",
+      "rarity": "IR",
+      "pokedexNumber": 971,
+      "cardIllustrator": "sowsow",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "215",
+      "cardName": "Riolu",
+      "pokemonName": "Riolu",
+      "pokemonName_en": "Riolu",
+      "rarity": "IR",
+      "pokedexNumber": 447,
+      "cardIllustrator": "Nelnal",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "216",
+      "cardName": "Mascaïman",
+      "pokemonName": "Sandile",
+      "pokemonName_en": "Sandile",
+      "rarity": "IR",
+      "pokedexNumber": 551,
+      "cardIllustrator": "Nurikabe",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "217",
+      "cardName": "Craparoi",
+      "pokemonName": "Klawf",
+      "pokemonName_en": "Klawf",
+      "rarity": "IR",
+      "pokedexNumber": 950,
+      "cardIllustrator": "Mina Nakai",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "218",
+      "cardName": "Dogrino",
+      "pokemonName": "Mabosstiff",
+      "pokemonName_en": "Mabosstiff",
+      "rarity": "IR",
+      "pokedexNumber": 943,
+      "cardIllustrator": "OKACHEKE",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "219",
+      "cardName": "Lestombaile",
+      "pokemonName": "Bombirdier",
+      "pokemonName_en": "Bombirdier",
+      "rarity": "IR",
+      "pokedexNumber": 962,
+      "cardIllustrator": "Shibuzoh.",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "220",
+      "cardName": "Scalpereur",
+      "pokemonName": "Kingambit",
+      "pokemonName_en": "Kingambit",
+      "rarity": "IR",
+      "pokedexNumber": 983,
+      "cardIllustrator": "Shin Nagasawa",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "221",
+      "cardName": "Étourmi",
+      "pokemonName": "Starly",
+      "pokemonName_en": "Starly",
+      "rarity": "IR",
+      "pokedexNumber": 396,
+      "cardIllustrator": "saino misaki",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    {
+      "cardID": "222",
+      "cardName": "Rongourmand",
+      "pokemonName": "Skwovet",
+      "pokemonName_en": "Skwovet",
+      "rarity": "IR",
+      "pokedexNumber": 819,
+      "cardIllustrator": "Teeziro",
+      "cardCameos": [],
+      "ThaiArtRares": true
+    },
+    /* IDs 223 through 258 follow the same pattern (ThaiArtRares: false) */
+    {
+      "cardID": "258",
+      "cardName": "Énergie Fighting de base",
+      "pokemonName": "Basic Fighting Energy",
+      "pokemonName_en": "Basic Fighting Energy",
+      "rarity": "HR",
+      "pokedexNumber": 0,
+      "cardIllustrator": "Unknown",
       "cardCameos": [],
       "ThaiArtRares": false
     }
-    /* ... all other rarities (C, U, R, RR, UR, SIR, HR) set to false ... */
   ]
 }
