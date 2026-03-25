@@ -27,11 +27,5 @@
     { "cardID": "220", "cardName": "Kingambit", "pokemonName_en": "Kingambit", "rarity": "IR", "pokedexNumber": 983, "cardIllustrator": "Shin Nagasawa", "ThaiArtRares": true },
     { "cardID": "221", "cardName": "Starly", "pokemonName_en": "Starly", "rarity": "IR", "pokedexNumber": 396, "cardIllustrator": "saino misaki", "ThaiArtRares": true },
     { "cardID": "222", "cardName": "Skwovet", "pokemonName_en": "Skwovet", "rarity": "IR", "pokedexNumber": 819, "cardIllustrator": "Teeziro", "ThaiArtRares": true },
-    { "cardID": "243", "cardName": "Spidops ex", "pokemonName_en": "Spidops ex", "rarity": "SIR", "pokedexNumber": 918, "cardIllustrator": "Miki Tanaka", "ThaiArtRares": true },
-    { "cardID": "244", "cardName": "Miraidon ex", "pokemonName_en": "Miraidon ex", "rarity": "SIR", "pokedexNumber": 1008, "cardIllustrator": "kantaro", "ThaiArtRares": true },
-    { "cardID": "245", "cardName": "Gardevoir ex", "pokemonName_en": "Gardevoir ex", "rarity": "SIR", "pokedexNumber": 282, "cardIllustrator": "Jiro Sasumo", "ThaiArtRares": true },
-    { "cardID": "246", "cardName": "Great Tusk ex", "pokemonName_en": "Great Tusk ex", "rarity": "SIR", "pokedexNumber": 984, "cardIllustrator": "Pani Kobayashi", "ThaiArtRares": true },
-    { "cardID": "247", "cardName": "Koraidon ex", "pokemonName_en": "Koraidon ex", "rarity": "SIR", "pokedexNumber": 1007, "cardIllustrator": "Ryota Murayama", "ThaiArtRares": true },
-    { "cardID": "248", "cardName": "Iron Treads ex", "pokemonName_en": "Iron Treads ex", "rarity": "SIR", "pokedexNumber": 990, "cardIllustrator": "KEIICHIRO ITO", "ThaiArtRares": true }
-  ]
+     ]
 }
