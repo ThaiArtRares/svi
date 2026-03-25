@@ -1,6 +1,7 @@
 {
   "setName": "SV01",
   "setID": "sv01",
+  "setReleaseDate": "2023-03-31",
   "cards": [
     {
       "cardID": "001",
