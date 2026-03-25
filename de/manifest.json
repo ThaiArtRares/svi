@@ -1,0 +1,199 @@
+{
+  "setName": "SV01",
+  "setID": "sv01",
+  "setReleaseDate": "2023-03-31",
+  "cards": [
+    {
+      "cardID": "199",
+      "cardName": "Tarundel",
+      "pokemonName_en": "Tarountula",
+      "rarity": "IR",
+      "pokedexNumber": 917,
+      "cardIllustrator": "Miki Tanaka"
+    },
+    {
+      "cardID": "200",
+      "cardName": "Olivinio",
+      "pokemonName_en": "Dolliv",
+      "rarity": "IR",
+      "pokedexNumber": 929,
+      "cardIllustrator": "Oswaldo KATO"
+    },
+    {
+      "cardID": "201",
+      "cardName": "Tentagra",
+      "pokemonName_en": "Toedscool",
+      "rarity": "IR",
+      "pokedexNumber": 948,
+      "cardIllustrator": "Akira Komayama"
+    },
+    {
+      "cardID": "202",
+      "cardName": "Halupenjo",
+      "pokemonName_en": "Scovillain",
+      "rarity": "IR",
+      "pokedexNumber": 952,
+      "cardIllustrator": "KIYOTAKA OSHIYAMA"
+    },
+    {
+      "cardID": "203",
+      "cardName": "Crimanzo",
+      "pokemonName_en": "Armarouge",
+      "rarity": "IR",
+      "pokedexNumber": 936,
+      "cardIllustrator": "nagimiso"
+    },
+    {
+      "cardID": "204",
+      "cardName": "Flegmon",
+      "pokemonName_en": "Slowpoke",
+      "rarity": "IR",
+      "pokedexNumber": 79,
+      "cardIllustrator": "Toshinao Aoki"
+    },
+    {
+      "cardID": "205",
+      "cardName": "Scampisto",
+      "pokemonName_en": "Clauncher",
+      "rarity": "IR",
+      "pokedexNumber": 692,
+      "cardIllustrator": "Shinya Komatsu"
+    },
+    {
+      "cardID": "206",
+      "cardName": "Schligda",
+      "pokemonName_en": "Wiglett",
+      "rarity": "IR",
+      "pokedexNumber": 960,
+      "cardIllustrator": "You Iribi"
+    },
+    {
+      "cardID": "207",
+      "cardName": "Heerashai",
+      "pokemonName_en": "Dondozo",
+      "rarity": "IR",
+      "pokedexNumber": 977,
+      "cardIllustrator": "AKIRA EGAWA"
+    },
+    {
+      "cardID": "208",
+      "cardName": "Pachirisu",
+      "pokemonName_en": "Pachirisu",
+      "rarity": "IR",
+      "pokedexNumber": 417,
+      "cardIllustrator": "zig"
+    },
+    {
+      "cardID": "209",
+      "cardName": "Pamomamo",
+      "pokemonName_en": "Pawmot",
+      "rarity": "IR",
+      "pokedexNumber": 923,
+      "cardIllustrator": "Kouki Saitou"
+    },
+    {
+      "cardID": "210",
+      "cardName": "Traumato",
+      "pokemonName_en": "Drowzee",
+      "rarity": "IR",
+      "pokedexNumber": 96,
+      "cardIllustrator": "Tomokazu Komiya"
+    },
+    {
+      "cardID": "211",
+      "cardName": "Trasla",
+      "pokemonName_en": "Ralts",
+      "rarity": "IR",
+      "pokedexNumber": 280,
+      "cardIllustrator": "Jiro Sasumo"
+    },
+    {
+      "cardID": "212",
+      "cardName": "Kirlia",
+      "pokemonName_en": "Kirlia",
+      "rarity": "IR",
+      "pokedexNumber": 281,
+      "cardIllustrator": "Jiro Sasumo"
+    },
+    {
+      "cardID": "213",
+      "cardName": "Hefel",
+      "pokemonName_en": "Fidough",
+      "rarity": "IR",
+      "pokedexNumber": 926,
+      "cardIllustrator": "Tika Matsuno"
+    },
+    {
+      "cardID": "214",
+      "cardName": "Gruff",
+      "pokemonName_en": "Greavard",
+      "rarity": "IR",
+      "pokedexNumber": 971,
+      "cardIllustrator": "sowsow"
+    },
+    {
+      "cardID": "215",
+      "cardName": "Riolu",
+      "pokemonName_en": "Riolu",
+      "rarity": "IR",
+      "pokedexNumber": 447,
+      "cardIllustrator": "Nelnal"
+    },
+    {
+      "cardID": "216",
+      "cardName": "Ganovil",
+      "pokemonName_en": "Sandile",
+      "rarity": "IR",
+      "pokedexNumber": 551,
+      "cardIllustrator": "Nurikabe"
+    },
+    {
+      "cardID": "217",
+      "cardName": "Klibbe",
+      "pokemonName_en": "Klawf",
+      "rarity": "IR",
+      "pokedexNumber": 950,
+      "cardIllustrator": "Mina Nakai"
+    },
+    {
+      "cardID": "218",
+      "cardName": "Mastifioso",
+      "pokemonName_en": "Mabosstiff",
+      "rarity": "IR",
+      "pokedexNumber": 943,
+      "cardIllustrator": "OKACHEKE"
+    },
+    {
+      "cardID": "219",
+      "cardName": "Adebom",
+      "pokemonName_en": "Bombirdier",
+      "rarity": "IR",
+      "pokedexNumber": 962,
+      "cardIllustrator": "Shibuzoh."
+    },
+    {
+      "cardID": "220",
+      "cardName": "Gladimperio",
+      "pokemonName_en": "Kingambit",
+      "rarity": "IR",
+      "pokedexNumber": 983,
+      "cardIllustrator": "Shin Nagasawa"
+    },
+    {
+      "cardID": "221",
+      "cardName": "Staralili",
+      "pokemonName_en": "Starly",
+      "rarity": "IR",
+      "pokedexNumber": 396,
+      "cardIllustrator": "saino misaki"
+    },
+    {
+      "cardID": "222",
+      "cardName": "Raffel",
+      "pokemonName_en": "Skwovet",
+      "rarity": "IR",
+      "pokedexNumber": 819,
+      "cardIllustrator": "Teeziro"
+    }
+  ]
+}
