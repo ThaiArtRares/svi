@@ -9,5 +9,3 @@
 <img src="it/images/setCode.png" width="200" alt="IT Set Code">
 <br>
 <img src="pt/images/setCode.png" width="200" alt="PT Set Code">
-<br>
-<img src="la/images/setCode.png" width="200" alt="LA Set Code">
